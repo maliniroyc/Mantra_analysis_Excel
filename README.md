@@ -1,10 +1,8 @@
-# Mantra_analysis_Excel
-
 # Myntra_Analysis
-🧹 Data Cleaning Project on Myntra's Sales Dataset Using Power Query in Excel. Includes Handling Nulls, Formatting, Removing Duplicates, and Preparing Clean Data for Analysis.
+🧹 Data Cleaning Project on Myntra's Sales Dataset Using Excel. Includes Handling Nulls, Formatting, Removing Duplicates, and Preparing Clean Data for Analysis.
 
 🧹 Myntra Data Cleaning Project
-This project focuses on cleaning and preparing Myntra's sales dataset using Power Query in Microsoft Excel. The goal is to transform raw, messy data into a structured and analysis-ready format for further business intelligence and insights.
+This project focuses on cleaning and preparing Myntra's sales dataset using Microsoft Excel. The goal is to transform raw, messy data into a structured and analysis-ready format for further business intelligence and insights.
 
 🔧 Key Cleaning Tasks Performed:
 Removed duplicate entries
@@ -20,7 +18,7 @@ Filtered out irrelevant or incomplete records
 Created custom columns for improved readability
 
 🛠️ Tools Used:
-Microsoft Excel (Power Query Editor)
+Microsoft Excel 
 
 Excel formulas and transformation functions
 
